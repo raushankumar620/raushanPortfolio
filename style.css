@@ -158,9 +158,13 @@ footer {
 .footer>div {
     width: 223px;
 }
-.footer .footer-texts {
+.footer-texts {
     text-align: center;
     color: rgb(11, 181, 11);
     padding: 12px;
+}
+img.rounded {
+    border-radius: 100%;
+    border-radius: 100px 100px 100px 100px; 
 }
 
